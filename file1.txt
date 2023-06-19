@@ -1,1 +1,2 @@
 New content in the file
+This is a very new content
